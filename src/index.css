@@ -4,6 +4,8 @@
 @import "./styles/Footer.css";
 @import "./styles/Main.css";
 @import "./styles/SatSetting.css";
+@import "./styles/StatelliteList.css";
+
 /* CSS import 需要打@符号 */
 /* import的顺序有关系，specificity的层级关系原因，同一个等级的，后面的css会覆盖前面的 */
 body {
@@ -13,6 +15,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  position: relative;
 }
 
 code {
