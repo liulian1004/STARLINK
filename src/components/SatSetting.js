@@ -45,7 +45,7 @@ class SatSetting extends Component {
         return(
             <div className="sat-setting">
                 <div className="loc-setting">
-                    <p className="setting-label">From Location </p>
+                    <p className="setting-label">Location </p>
                     <div className="setting-list two-item-col">
 
                         <div className="list-item">

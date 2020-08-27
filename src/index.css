@@ -5,6 +5,7 @@
 @import "./styles/Main.css";
 @import "./styles/SatSetting.css";
 @import "./styles/StatelliteList.css";
+@import "./styles/WorldMap.css";
 
 /* CSS import 需要打@符号 */
 /* import的顺序有关系，specificity的层级关系原因，同一个等级的，后面的css会覆盖前面的 */
